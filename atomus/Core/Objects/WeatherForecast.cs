@@ -1,4 +1,4 @@
-namespace atomus
+namespace atomus.Core.Objects
 {
     public class WeatherForecast
     {

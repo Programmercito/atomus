@@ -1,6 +1,7 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using atomus.Core.Objects;
+using Microsoft.AspNetCore.Mvc;
 
-namespace atomus.Controllers
+namespace atomus.Core.Controllers
 {
     [ApiController]
     [Route("api/weather")]
